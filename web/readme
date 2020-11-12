@@ -1,0 +1,6 @@
+web.py: start 4 crawling instances in parallel
+crawl.py: get unvisited pages, visit them, extract the links and words from these pages, save it all in the database
+down.py: get unvisited pages from the database, download the content from webpages
+extract.py: extract the links, words, and give weights to the words on a webpage
+save.py: save urls and words into the database
+stats.py: give statistics on the running crawler
