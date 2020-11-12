@@ -1,0 +1,4 @@
+wikiCrawl.py: launches the downloading, extraction, and saving instances
+wikiDown.py: keeps downloading new WikiPedia pages, to keep a constant backlog of downloaded pages that are ready to be analysed
+wikiExtract.py: extract all words from a downloaded page
+wikiSave.py: save new words into the database
