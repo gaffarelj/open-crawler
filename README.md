@@ -1,2 +1,2 @@
 # open-crawler
-Open crawler, first developed in PHP, then C#, and finally in Python
+Open crawler, visiting all of internet, finding keywords, and making a search engine.
